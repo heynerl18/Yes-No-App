@@ -46,7 +46,6 @@ Esta aplicación fue creada para aplicar y consolidar conocimientos de Flutter, 
     ```bash
    flutter pub get
 3. Ejecuta la app:
-   ```
+   ```bash
    flutter run
-
 
